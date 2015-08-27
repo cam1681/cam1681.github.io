@@ -1,0 +1,11 @@
+.gzwm ul { width: 100%; margin: 30px 0; overflow: hidden; text-align:center; }
+.gzwm li { width: 70px; margin: 0 18px 0 5px; float: center; display:inline-block;text-align:center }
+.gzwm li a { color: #747F8C; width: 52px; text-align: center; padding-top: 60px; float: left; }
+.gzwm .rss { background: url(../images/ico_04_1.jpg) no-repeat scroll 0% 0% transparent; }
+.gzwm .rss:hover { color: #000; background: url(../images/ico_04_1.jpg) no-repeat scroll 0% 0% transparent; }
+.gzwm .xlwb { background: url(../images/ico_05_1.jpg) no-repeat scroll 0% 0% transparent; }
+.gzwm .xlwb:hover { color: #000; background: url(../images/ico_05_1.jpg) no-repeat scroll 0% 0% transparent; }
+.gzwm .txwb { background: url(../images/ico_06_1.jpg) no-repeat scroll 0% 0% transparent; }
+.gzwm .txwb:hover { color: #000; background: url(../images/ico_06_1.jpg) no-repeat scroll 0% 0% transparent; }
+.gzwm .wx { background: url(../images/ico_07_1.jpg) no-repeat scroll 0% 0% transparent; }
+.gzwm .wx:hover { color: #000; background: url(../images/ico_07_1.jpg) no-repeat scroll 0% 0% transparent; }
